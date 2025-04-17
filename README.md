@@ -23,7 +23,6 @@ uv venv
 uv add mcp[cli] httpx
 ```
 #Feel free to test each of the servers by running them with uv
-#Example:
 ```
 uv run biblegateway-votd-basic.py
 ```
@@ -48,23 +47,23 @@ uv run biblegateway-votd-basic.py
 ```
 
 #To use the MCP in your agent, simple ask for the VOTD in the language/bible version of your choice.
-#Example: Nueva Versión Internacional bible
+Nueva Versión Internacional bible
 ```
 What is the verse of the day in the Nueva Versión Internacional bible?
 ```
-#Example: Contemporary English Version
+Contemporary English Version
 ```
 What is the verse of the day in the Contemporary English Version
 ```
-#Example: New International Version (by ID #)
+New International Version (by ID #)
 ```
 What is the verse of the day in the bible version with ID: 31
 ```
-#Example: Gujarati: પવિત્ર બાઈબલ (Pavitra Baibal) or Holy Bible 
+Gujarati: પવિત્ર બાઈબલ (Pavitra Baibal) or Holy Bible 
 ```
 What is the verse of the day in the bible version with ID: 278
 ```
-#Example: Gujarati: પવિત્ર બાઈબલ (Pavitra Baibal) or Holy Bible (by ID # 278)
+Gujarati: પવિત્ર બાઈબલ (Pavitra Baibal) or Holy Bible (by ID # 278)
 ```
 What is the verse of the day in the પવિત્ર બાઈબલ (Pavitra Baibal) or Hindi Holy Bible
 ```
