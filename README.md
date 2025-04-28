@@ -12,6 +12,9 @@ https://www.biblegateway.com/votd/get/?format=JSON&version=9
 For a list of all the versions and their IDs, see:
 [Version List](https://www.biblegateway.com/usage/linking/versionslist/)
 
+#MCP Server Demo on YouTube:
+[MCP Server Demo on YouTube](https://www.youtube.com/watch?v=34QvzTQ0_fg)
+
 ## Installation: use guide by [Model Context Protocol Quickstart: For Server Developers](https://modelcontextprotocol.io/quickstart/server) which uses [uv](https://docs.astral.sh/uv/getting-started/installation/) instead of pip
 ```
 git clone https://github.com/cmathgit/biblegateway-votd-mcp.git
