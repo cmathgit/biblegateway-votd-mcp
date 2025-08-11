@@ -1,4 +1,5 @@
 # BibleGateway Verse of the Day MCP Server
+# Continue Code Block available at [Biblegateway-VOTD-MCP](https://hub.continue.dev/cmathcontinue-dev/biblegateway-votd-mcp)
 
 This is a MCP server for the BibleGateway Verse of the Day: NO API Key Required
 

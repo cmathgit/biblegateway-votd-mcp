@@ -28,3 +28,9 @@ biblegateway-votd-deutsch.py
 biblegateway-votd-dutch.py
 biblegateway-votd-tagalog.py
 biblegateway-votd-svenska.py
+biblegateway-votd-bulgarian.py
+
+main.py
+uv.lock
+pyproject.toml
+.python-version
