@@ -107,6 +107,15 @@ def get_bible_votd_nepali_betr():
     response.raise_for_status() # Raise an exception for bad status codes
     return response.json()
 
+# ID: 289, Lang: GU, Version: Bengali: পবিত্র বাইবেল
+@mcp.tool()
+def get_bible_votd_pobitro_b():
+    """Fetches the Verse of the Day for Bengali: পবিত্র বাইবেল Pobitro Bible (ID 289)."""
+    url = f"{BIBLE_API_BASE}&version=289"
+    response = httpx.get(url)
+    response.raise_for_status() # Raise an exception for bad status codes
+    return response.json()
+
 # ID: 278, Lang: GU, Version: Gujarati: પવિત્ર બાઈબલ
 @mcp.tool()
 def get_bible_votd_pavitra_b():
